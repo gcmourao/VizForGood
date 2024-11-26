@@ -2,7 +2,7 @@
   Viz for social good
 </h1>
 
-Projects for the [Viz for social association](https://www.vizforsocialgood.com)
+Projects for the [Viz for social good association](https://www.vizforsocialgood.com)
 
 ## :clipboard: About 
 
