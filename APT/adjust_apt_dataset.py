@@ -48,5 +48,8 @@ expanded_df.rename(columns={'new_input': 'Input'}, inplace=True)
 # adjust NA values
 expanded_df.fillna(value={'Input': 'No'}, inplace=True)
 
+# filter only rows with years in [1984, 1994, 2004, 2014, 2024]
+expanded_df = expanded_df[expanded_df.Year.isin([1984, 1994, 2004, 2014, 2024])]
+
 # export expanded df
 expanded_df.to_csv('output_files/final_apt_df.csv', index=False)
