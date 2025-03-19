@@ -15,7 +15,7 @@ This was the first time I had the chance to use my data skills to give back to t
 loved the experience.
 
 ## :file_folder: Projects:
-- 40 Years of Torture Prevention: A Comprehensive Overview | APT (Association for the Prevention of Torture)
+- *[40 Years of Torture Prevention:](https://github.com/gcmourao/VizForGood/tree/main/APT)* A Comprehensive Overview | APT (Association for the Prevention of Torture)
 <p align="center">
   <a href="https://public.tableau.com/views/40YearsofTorturePreventionAComprehensiveOverview/Overview">
     <img src="./images/APT_dashboard.jpeg" width="50%" alt="my alt text"/>
