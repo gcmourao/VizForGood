@@ -16,12 +16,6 @@ loved the experience.
 
 ## :file_folder: Projects:
 - 40 Years of Torture Prevention: A Comprehensive Overview | APT (Association for the Prevention of Torture)
-<figure>
-  <a href="https://public.tableau.com/views/40YearsofTorturePreventionAComprehensiveOverview/Overview">
-    <img src="./images/APT_dashboard.jpeg" width="50%" alt="my alt text"/>
-  </a><br/>
-</figure>
-
 <p align="center">
   <a href="https://public.tableau.com/views/40YearsofTorturePreventionAComprehensiveOverview/Overview">
     <img src="./images/APT_dashboard.jpeg" width="50%" alt="my alt text"/>
