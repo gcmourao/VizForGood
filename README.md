@@ -13,3 +13,11 @@ from around the world to collaborate with various organizations. Together, they 
 visualizations to support their missions.
 This was the first time I had the chance to use my data skills to give back to the community, and I absolutely 
 loved the experience.
+
+## :file_folder: Projects:
+- 40 Years of Torture Prevention: A Comprehensive Overview | APT (Association for the Prevention of Torture)
+  <figure>
+  <a href="https://public.tableau.com/views/40YearsofTorturePreventionAComprehensiveOverview/Overview"><img src="https://public.tableau.com/views/40YearsofTorturePreventionAComprehensiveOverview/Overview" width ="50%" alt="my alt text"/></a><br/>
+  <figcaption><em>teste</em></figcaption>
+</figure>
+
