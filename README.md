@@ -16,8 +16,8 @@ loved the experience.
 
 ## :file_folder: Projects:
 1) 40 Years of Torture Prevention: A Comprehensive Overview | APT (Association for the Prevention of Torture)
-    - Project repository: https://github.com/gcmourao/VizForGood/tree/main/APT
-    - Project dashboard: https://public.tableau.com/views/40YearsofTorturePreventionAComprehensiveOverview/Overview  
+    - Project repository: **[link](https://github.com/gcmourao/VizForGood/tree/main/APT)**
+    - Project dashboard: **[link](https://public.tableau.com/views/40YearsofTorturePreventionAComprehensiveOverview/Overview)**
 <p align="center">
   <a href="https://public.tableau.com/views/40YearsofTorturePreventionAComprehensiveOverview/Overview">
     <img src="./images/APT_dashboard.jpeg" width="50%" alt="my alt text"/>
